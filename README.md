@@ -18,3 +18,16 @@ Client Managaement System - Sandali Upeka G
 Sales Management System - Isuri S Athapaththu H L
 Payment Management System - Wattegama D S B
 Order Management System - Balalla L J M V N
+
+Technologies used :
+
+                    Spring Tool Suite
+                    Spring Boot 
+                    MySQL Workbench
+                    Bootstrap 4.0
+                 
+Languages used :
+        
+                    Java
+                    JavaScript
+                    MySQL
